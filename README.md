@@ -7,6 +7,7 @@
 | 教程 | 说明 |
 |------|------|
 | [心理学导论](psychology_tutorial.md) | 涵盖心理学七大核心领域，从基础理论到现代应用 |
+| [哲学入门](philosophy_tutorial_chinese.md) | 哲学基础概念、主要流派与思维方法导览 |
 
 ## 关于
 
